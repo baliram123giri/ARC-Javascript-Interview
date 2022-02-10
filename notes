@@ -1,0 +1,73 @@
+Class 01 ARC
+  * Below are some javascript types-\
+     > Boolean
+     > Number
+     > String
+     > Null
+     > Object
+     > Function
+     > Undefined
+  
+  * Why to use NaN in Javascript?
+     > NaN Function is used check the number in the argument
+     > If it does not contain number then it will return true
+       else it will return false
+  
+  * Explain negative infinity?
+     > Negative Number is a number which is obtained from
+       dividing the negative number by zero
+  
+  * Can javascript code be broken into multuiple lines?
+     > Yes it is possible to break the javascript code to multiple lines
+       using backslash "\".
+    
+  * What are undeclared  variables  in Javascript?
+     > Undecleared variables are the ones which does not exist and  not
+       decleared in the program
+     > So While running the program runtime error will be thrown.
+  
+  * What are undefined variables in Javascript?
+     > Undefined variables are the ones which exist in thye priogram but are not 
+       not defined or not assigned any value for that variables.
+ 
+  * Explain global variables in Javascript?
+     > If the variable can be accessed anywhere in the code is called global variables and these 
+       will not have any scope in the application
+ 
+  * Explain Prompt box in Javascript?
+     > Prompt box is used to get the input from user by popping up the
+       Window to the user.
+
+  * Why to use "this" keyword in Javascript?
+     > 'this' keyword is used to refer the current object in the program. 'this' keyword
+       is used mainly inside the method to refer to the current varaible or current object.
+       
+  * What is "SetInterval" function in Javascript?
+     > 'SetInterval' function is used to call the function given as a parameter
+       repeatedly after some time delay.
+
+  * What is "ClearInterval" function in Javascript?
+     > 'ClearInterval' function is used to clear the time set from function- "SetInterval()"
+
+  * What is "SetTimeOut" function in Javascript?
+     > 'SetTimeOut' function is used to call the function given as a parameter
+       after some time delay.
+
+  * How  to give comments in Javascript?
+     > For Single line comment- "//""
+     > For Multi line comment- "/* */""
+
+  * Why to use "===" operator in Javascript?
+     > "===" operator is called strict operator and it returns true when both
+        the values are same and return false when the values are not same
+
+    
+  
+
+    
+
+     
+    
+
+  
+    
