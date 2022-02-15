@@ -1,0 +1,46 @@
+ * How We can change fontSize in Javascript?
+     > document.getElementById("id").style.fontSize = "12"
+    
+ * How We can read and write file in Javascript?
+     > using javascript extention (.js)
+    
+ * How to convert strings to integer in Javascript?
+     > Using "parseInt()" method we can convert string to integer.
+ 
+ * What are the loop structures available in Javascript?
+     > While
+     > For
+     > Do-While
+ 
+ * How we can detect the operating system version the machine using in Javascript?
+     > using "window.navigator.appVersion" method we can detect appVersion.
+ 
+ * List out the pop up boxes whcih can be used in Javascript?
+     > Propmt
+     > Confirm
+     > Alert
+
+ * What is default dataType in Javascript?
+     > All variables by default of type "Object".
+
+ * what are the two basic groups of datatypes in javascript?
+    There are two major data types in JavaScript,
+     > Primitive Data Types..
+     > Non-primitive Data Types/ composite data type.
+
+ * Which and all dataTypes comes under primary DataType in Javascript?
+     > Boolean, Number, String, Etc. comes under primary dataTypes
+
+ * Why to use innerHTML in Javascript?
+     > for replacing or get the content in the elements we can use innerHTML method
+
+ * What are the disadvantages of innerHTML in Javascript?
+     > innerHTML will not provide any kind of validation.
+
+ * What is break keyword in Javascript?
+     > "break" keyword is used to exist the loop on errors or on some conditions.
+ 
+ * What is continue keyword in Javascript?
+     > "continue" keyword is used to continue this loop by breaking the existing conditions and errors.
+
+

@@ -27,7 +27,7 @@ Class 01 ARC
      > So While running the program runtime error will be thrown.
   
   * What are undefined variables in Javascript?
-     > Undefined variables are the ones which exist in thye priogram but are not 
+     > Undefined variables are the ones which exist in the priogram but are not 
        not defined or not assigned any value for that variables.
  
   * Explain global variables in Javascript?
